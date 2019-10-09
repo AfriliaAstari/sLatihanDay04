@@ -1,0 +1,6 @@
+C:\sLatihanDay04\caDay0403\caDay0403\bin\Debug\caDay0403.exe.config
+C:\sLatihanDay04\caDay0403\caDay0403\bin\Debug\caDay0403.exe
+C:\sLatihanDay04\caDay0403\caDay0403\bin\Debug\caDay0403.pdb
+C:\sLatihanDay04\caDay0403\caDay0403\obj\Debug\caDay0403.csprojResolveAssemblyReference.cache
+C:\sLatihanDay04\caDay0403\caDay0403\obj\Debug\caDay0403.exe
+C:\sLatihanDay04\caDay0403\caDay0403\obj\Debug\caDay0403.pdb

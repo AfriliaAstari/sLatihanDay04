@@ -1,0 +1,6 @@
+C:\sLatihanDay04\caDay04tugas\caDay04tugas\bin\Debug\caDay04tugas.exe.config
+C:\sLatihanDay04\caDay04tugas\caDay04tugas\bin\Debug\caDay04tugas.exe
+C:\sLatihanDay04\caDay04tugas\caDay04tugas\bin\Debug\caDay04tugas.pdb
+C:\sLatihanDay04\caDay04tugas\caDay04tugas\obj\Debug\caDay04tugas.csprojResolveAssemblyReference.cache
+C:\sLatihanDay04\caDay04tugas\caDay04tugas\obj\Debug\caDay04tugas.exe
+C:\sLatihanDay04\caDay04tugas\caDay04tugas\obj\Debug\caDay04tugas.pdb
